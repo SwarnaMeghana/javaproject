@@ -1,4 +1,4 @@
-package com.dxc.javaproject;
+package com.dxc.javaproject.interfaceex;
 
 class Fruit {
     interface Activity {

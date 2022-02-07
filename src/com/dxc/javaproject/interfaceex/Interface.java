@@ -1,4 +1,4 @@
-package com.dxc.javaproject;
+package com.dxc.javaproject.interfaceex;
 
 interface Polygon {
     void getArea(int length, int breadth);
